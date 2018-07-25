@@ -9,7 +9,9 @@ This is a ninja store of all the important lessons I found in the books i have r
 
 > Failure inspires winners. Failures defeats losers.
 
-> ##### The main management skills needed for success are: 
+##### The main management skills needed for success are: 
 > - Management of cash flow
 > - Management of system.
 > - Management of people.
+
+> Job is an acronym for *"Just Over Broke"*
