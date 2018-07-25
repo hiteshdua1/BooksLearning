@@ -8,3 +8,8 @@ This is a ninja store of all the important lessons I found in the books i have r
 > For most people, the reason they don;t win financially is because the pain of losing money is far greater than the joy of being rich.
 
 > Failure inspires winners. Failures defeats losers.
+
+> ##### The main management skills needed for success are: 
+> - Management of cash flow
+> - Management of system.
+> - Management of people.
