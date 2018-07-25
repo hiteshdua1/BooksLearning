@@ -15,3 +15,11 @@ This is a ninja store of all the important lessons I found in the books i have r
 > - Management of people.
 
 > Job is an acronym for *"Just Over Broke"*
+
+##### Financial Management is made up of following 4 technical skills.
+> - *Accounting*
+>     It is financial literacy or the ability to read numbers. This is a skill if you want to build business or investment.
+> - *Investing*
+>     It is the science of money making money.
+> - *Understanding markets*
+> - *The Law*
